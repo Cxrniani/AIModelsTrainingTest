@@ -6,7 +6,7 @@ Este projeto é parte da matéria Inteligência Artificial 2024-2 da UFMS. O obj
 ## Estrutura do Projeto
 - **/pdfs**: Contém os pdf com os textos utilizados para treinar o modelo.
 - **main.py**: Executa o script de treino do modelo, desde a separação dos dados até a parte de treinamento e inferência.
-- **Arquivos .csv**: Datasheets contendo a acurácia e o F1-Score de cada fold.
+- **Arquivos .csv**: Datasheets contendo a acurácia e o F1-Score de cada fold dos diferentes algoritmos.
 
 ## Instalação
 Para instalar as dependências do projeto, execute:

@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## Uso
 Para rodar o projeto, utilize o seguinte comando:
 ```bash
-python src/main.py
+python main.py
 ```
 
 ## Licença
